@@ -3,6 +3,11 @@
 ## Que son las redes neuronles
 ## Cuál es su relacion con la tería de grafos
 
+
+<img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
+
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
+![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visiblebody.com%2Fes%2Flearn%2Fnervous%2Fneurons&psig=AOvVaw3rjDXzctUf4gQ0VNLQmXcS&ust=1608085048715000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCBjOT1zu0CFQAAAAAdAAAAABAU
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>ip
