@@ -1,11 +1,9 @@
 ## Welcome to  GitHub 
 ## Este proyecto fue posible gracias a a las redes neuronales
-## Que son las redes neuroanles
-## Cuál es su relacion con la tería de grafoas
-Incluir imagenes
+## Que son las redes neuronles
+## Cuál es su relacion con la tería de grafos
 
-https://pymstatic.com/2767/conversions/neurona-tipos-social.jp
-https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5799c1f85bafe8671d8b456c/comunicacion-neuronas_0.jpg
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visiblebody.com%2Fes%2Flearn%2Fnervous%2Fneurons&psig=AOvVaw3rjDXzctUf4gQ0VNLQmXcS&ust=1608085048715000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCBjOT1zu0CFQAAAAAdAAAAABAU
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>ip
 <df-messenger
