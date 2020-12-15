@@ -1,5 +1,13 @@
 ## Welcome to  GitHub 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+## Este proyecto fue posible gracias a a las redes neuronales
+## Que son las redes neuroanles
+## Cuál es su relacion con la tería de grafoas
+Incluir imagenes
+
+https://pymstatic.com/2767/conversions/neurona-tipos-social.jp
+https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5799c1f85bafe8671d8b456c/comunicacion-neuronas_0.jpg
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>ip
 <df-messenger
   intent="WELCOME"
   chat-title="Agente_logica"
